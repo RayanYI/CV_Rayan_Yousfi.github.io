@@ -3,9 +3,7 @@
     padding: 0;
     text-decoration: none;
 }
-div{
-   position: absolute;
-}
+
 div embed{
    height: 100vh;
    width: 100vw;
